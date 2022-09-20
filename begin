@@ -1,0 +1,52 @@
+//Cunscodeadfault
+#include <bits/stdc++.h>
+#include <queue>
+#include <vector>
+#include <algorithm>
+
+#define fn "Graph."
+#define ll long long
+#define f first
+#define s second
+#define fc(i,x,n) for(int i=x; i<=n; i++)
+#define fr(i,x,n) for(int i=n; i>=x; i--)
+#define p pair
+#define faster ios::sync_with_stdio(false); cin.tie(0);
+
+using namespace std;
+
+const int N=1e4;
+int u,v;
+queue<int> q;
+vector<int> g[N];
+
+struct namepromgram{
+    int data, id;
+
+};
+
+void putin(){
+    
+}
+
+
+void slove(){
+
+}
+
+
+int main(){
+
+    faster
+
+    freopen(fn "inp","r", stdin);
+    freopen(fn "out","w", stdout);
+
+    putin();
+
+    slove();
+
+    return 0;
+
+}
+
